@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `npm i` to install ng_modules locall folder.
+Run `npm i` to install ng_modules in local folder.
 
 
 ## Development server
